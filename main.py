@@ -1,7 +1,7 @@
 # This is a simple calculation program
 # created to demonstrate version control.
-from libadd import *
-from libmult import *
+from ab24143-libadd import *
+from ab24143-libmult import *
 a = 13
 b = 5
 print(plus(a,b))
